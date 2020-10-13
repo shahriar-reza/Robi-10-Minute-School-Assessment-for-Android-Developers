@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Robi 10 Min School</string>
+    <string name="main_item_title">Chapter Name</string>
+    <string name="sub_item_title">Sub Item Title</string>
+    <string name="sub_item_subtitle">Sub Item SubTitle</string>
+    <string name="sub_item_icon_desc">Sub Item SubTitle</string>
+</resources>
